@@ -1,0 +1,3 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,spanish,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese
+xuiMenuRestart,UI,XUI,x,,Restart,,Neustart,reiniciar,Redémarrage,Riavvio,再起動,재시작,ponowne uruchomienie,reiniciar,перезапуск,Yeniden başlatma,重启游戏,重新啟動
+xuiMenuQuit,UI,XUI,,,Quit,,,,,,アプリを終了,,,,,,,

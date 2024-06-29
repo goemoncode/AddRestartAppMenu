@@ -1,0 +1,6 @@
+<patch>
+  <append xpath="/windows/window[@name='ingameMenu']/grid[@name='buttons']">
+    <simplebutton name="btnRestart" depth="3" width="250" height="46" caption_key="xuiMenuRestart" font_size="40" />
+    <simplebutton name="btnQuit" depth="3" width="250" height="46" caption_key="xuiMenuQuit" font_size="40" />
+  </append>
+</patch>

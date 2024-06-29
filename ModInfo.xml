@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<Name value="AddRestartAppMenu"/>
+	<DisplayName value="AddRestartAppMenu"/>
+	<Version value="1.0.0"/>
+	<Description value="This mod adds a menu and console command to restart/quit the game app."/>
+	<Author value="goemoncode"/>
+	<Website value=""/>
+</xml>
